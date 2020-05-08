@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="256" viewBox="0 0 252 256">
+  <g id="solution_lv29" transform="translate(-1255 -766)">
+    <g id="Group_195" data-name="Group 195" transform="translate(-42.813 614.5)">
+      <g id="Group_136" data-name="Group 136" transform="translate(1298 151)">
+        <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(-0.187 0.5)" fill="none" stroke="#000" stroke-width="1">
+          <rect width="252" height="213" stroke="none"/>
+          <rect x="0.5" y="0.5" width="251" height="212" fill="none"/>
+        </g>
+        <line id="Line_12" data-name="Line 12" y2="210.373" transform="translate(86.156 1.005)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_14" data-name="Line 14" y2="210.373" transform="translate(166.391 1.005)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_13" data-name="Line 13" y2="249" transform="translate(250.005 139.976) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_15" data-name="Line 15" y2="249" transform="translate(250.005 74.67) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+      </g>
+      <g id="Group_137" data-name="Group 137" transform="translate(1316.289 172)">
+        <text id="_4_x_8" data-name="4 x 8" transform="translate(-0.475 20.5)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">4 x 8</tspan></text>
+        <text id="_2_x_8" data-name="2 x 8" transform="translate(86.525 20.5)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">2 x 8</tspan></text>
+        <text id="_7_x_8" data-name="7 x 8" transform="translate(173.525 20.5)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">7 x 8</tspan></text>
+      </g>
+      <g id="Group_138" data-name="Group 138" transform="translate(1316 244.853)">
+        <text id="_1_x_8" data-name="1 x 8" transform="translate(-0.187 19.647)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1 x 8</tspan></text>
+        <text id="_9_x_8" data-name="9 x 8" transform="translate(87.813 19.647)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">9 x 8</tspan></text>
+        <text id="_5_x_8" data-name="5 x 8" transform="translate(175.813 19.647)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">5 x 8</tspan></text>
+      </g>
+      <g id="Group_139" data-name="Group 139" transform="translate(1314 319)">
+        <text id="_6_x_8" data-name="6 x 8" transform="translate(3.813 20.5)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">6 x 8</tspan></text>
+        <text id="_8_x_8" data-name="8 x 8" transform="translate(91.813 20.5)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">8 x 8</tspan></text>
+        <text id="_3_x_8" data-name="3 x 8" transform="translate(172.813 17.5)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3 x 8</tspan></text>
+      </g>
+    </g>
+    <g id="Group_196" data-name="Group 196">
+      <text id="_8_x_8-2" data-name="8 x 8" transform="translate(1336 1015)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">8 x 8</tspan></text>
+      <text id="_64" data-name="= 64" transform="translate(1392 1015)" font-size="20" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">= 64</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="97" viewBox="0 0 149 97">
+  <g id="solution_lv8" transform="translate(-495 -544)">
+    <g id="Group_126" data-name="Group 126" transform="translate(25 -7)">
+      <g id="Group_123" data-name="Group 123" transform="translate(520.067 551)">
+        <text id="X_-_Y" data-name="X - Y" transform="translate(-0.067 13)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">X - Y</tspan></text>
+        <text id="_60" data-name=" = 60" transform="translate(32.933 13)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0" xml:space="preserve"> = 60</tspan></text>
+      </g>
+      <g id="Group_124" data-name="Group 124" transform="translate(518.761 593.44)">
+        <text id="_2X" data-name="2X" transform="translate(18.239 12.56)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">2X</tspan></text>
+        <text id="_100" data-name=" = 100" transform="translate(34.239 12.56)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0" xml:space="preserve"> = 100</tspan></text>
+      </g>
+      <g id="Group_125" data-name="Group 125" transform="translate(503.091 569.935)">
+        <text id="_X_Y" data-name="+  X + Y" transform="translate(-0.091 13.065)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0" xml:space="preserve">+  X + Y</tspan></text>
+        <text id="_40" data-name=" = 40" transform="translate(49.909 13.065)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0" xml:space="preserve"> = 40</tspan></text>
+      </g>
+      <line id="Line_16" data-name="Line 16" x2="86.186" transform="translate(499.5 590.502)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+    <g id="Group_127" data-name="Group 127">
+      <text id="A_50_B_10_A_B" data-name="A = 50, B = 10,   A / B" transform="translate(495 636)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0" xml:space="preserve">A = 50, B = 10,   A / B</tspan></text>
+      <text id="_5" data-name="= 5" transform="translate(624 636)" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">= 5</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="339" height="280" viewBox="0 0 339 280">
+  <g id="solution_lv27" transform="translate(-153 -648)">
+    <text id="_7" data-name="7" transform="translate(293 748)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">7</tspan></text>
+    <text id="_9" data-name="9" transform="translate(327 748)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">9</tspan></text>
+    <text id="_3" data-name="3" transform="translate(356 776)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3</tspan></text>
+    <text id="_11" data-name="11" transform="translate(355 813)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">11</tspan></text>
+    <text id="_65" data-name="65" transform="translate(321 839)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">65</tspan></text>
+    <text id="_1" data-name="1" transform="translate(289 839)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1</tspan></text>
+    <text id="_4" data-name="4" transform="translate(263 813)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">4</tspan></text>
+    <text id="_5" data-name="5" transform="translate(269 776)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">5</tspan></text>
+    <g id="Group_150" data-name="Group 150" transform="translate(153.33 627.83)">
+      <text id="_11_65" data-name="11 + 65" transform="translate(241.67 257.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">11 + 65</tspan></text>
+      <g id="Group_149" data-name="Group 149">
+        <text id="_9_3" data-name="9 + 3" transform="translate(244.67 77.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">9 + 3</tspan></text>
+        <text id="_4_1" data-name="4 + 1" transform="translate(67.67 257.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">4 + 1</tspan></text>
+        <g id="Group_148" data-name="Group 148">
+          <text id="_1_65" data-name="1 + 65" transform="translate(139.67 293.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1 + 65</tspan></text>
+          <g id="Group_147" data-name="Group 147">
+            <g id="Group_146" data-name="Group 146">
+              <g id="Group_144" data-name="Group 144" transform="translate(48.67 48.67)">
+                <line id="Line_18" data-name="Line 18" y2="220.53" transform="translate(114.102)" fill="none" stroke="#000" stroke-width="1"/>
+                <line id="Line_19" data-name="Line 19" y2="228.205" transform="translate(228.205 110.265) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+              </g>
+              <g id="Group_145" data-name="Group 145" transform="translate(162.773 0) rotate(45)">
+                <line id="Line_18-2" data-name="Line 18" y2="228.205" transform="translate(112.384 -1.718)" fill="none" stroke="#000" stroke-width="1"/>
+                <line id="Line_19-2" data-name="Line 19" y2="228.205" transform="translate(226.487 112.384) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+              </g>
+            </g>
+            <text id="_3_11" data-name="3 + 11" transform="translate(279.67 165.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3 + 11</tspan></text>
+            <text id="_5_4" data-name="5 + 4" transform="translate(-0.33 165.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">5 + 4</tspan></text>
+          </g>
+          <g id="Group_185" data-name="Group 185" transform="translate(-17 -1)">
+            <text id="_7_9" data-name="7 + 9" transform="translate(139.67 41.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">7 + 9</tspan></text>
+            <text id="_16" data-name=" = 16" transform="translate(208.67 41.17)" font-size="20" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="-23.42" y="0" xml:space="preserve"> = 16</tspan></text>
+          </g>
+        </g>
+      </g>
+      <text id="_7_5" data-name="7 + 5" transform="translate(34.67 75.17)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">7 + 5</tspan></text>
+    </g>
+  </g>
+</svg>

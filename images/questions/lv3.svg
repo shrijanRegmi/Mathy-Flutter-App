@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="183" height="161" viewBox="0 0 183 161">
+  <g id="lv3" transform="translate(-672 -133)">
+    <g id="Group_72" data-name="Group 72">
+      <path id="Polygon_1" data-name="Polygon 1" d="M16.5,0,33,29H0Z" transform="translate(699 133)"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M16.5,0,33,29H0Z" transform="translate(762 133)"/>
+      <text id="_4" data-name="= 4" transform="translate(813 154)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 4</tspan></text>
+      <text id="_" data-name="+" transform="translate(741 154)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <g id="Group_73" data-name="Group 73" transform="translate(0 -1)">
+      <path id="Polygon_3" data-name="Polygon 3" d="M16.5,0,33,29H0Z" transform="translate(762 177)"/>
+      <text id="_12" data-name="= 12" transform="translate(813 198)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 12</tspan></text>
+      <text id="_2" data-name="+" transform="translate(741 198)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">+</tspan></text>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="28" height="28" transform="translate(672 178)"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="28" height="28" transform="translate(704 178)"/>
+    </g>
+    <g id="Group_74" data-name="Group 74" transform="translate(0 -1)">
+      <text id="_13" data-name="= 13" transform="translate(813 241)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 13</tspan></text>
+      <text id="_3" data-name="+" transform="translate(741 241)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">+</tspan></text>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="28" height="28" transform="translate(765 221)"/>
+      <path id="Path_18" data-name="Path 18" d="M15.5,0A15.5,15.5,0,1,1,0,15.5,15.5,15.5,0,0,1,15.5,0Z" transform="translate(700 219)"/>
+    </g>
+    <g id="Group_75" data-name="Group 75">
+      <text id="_4-2" data-name="= ?" transform="translate(813 285)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= ?</tspan></text>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="15.5" cy="15.5" r="15.5" transform="translate(764 263)"/>
+    </g>
+  </g>
+</svg>

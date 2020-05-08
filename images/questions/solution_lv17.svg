@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="156" viewBox="0 0 111 156">
+  <g id="solution_lv17" transform="translate(-1274 -717)">
+    <g id="Group_106" data-name="Group 106" transform="translate(1274 717)">
+      <g id="Group_44" data-name="Group 44" transform="translate(0)">
+        <path id="Polygon_8" data-name="Polygon 8" d="M15,0,30,25H0Z" transform="translate(6 13)"/>
+        <text id="_9" data-name="9" transform="translate(18 10)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">9</tspan></text>
+        <text id="_3" data-name="3" transform="translate(0 42)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3</tspan></text>
+        <text id="_27" data-name="27" transform="translate(36 43)" font-size="11" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">27</tspan></text>
+      </g>
+      <text id="_3_x_9_27" data-name="3 x 9 = 27" transform="translate(60 25)" font-size="11" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3 x 9 = 27</tspan></text>
+    </g>
+    <g id="Group_107" data-name="Group 107" transform="translate(1274 772.139)">
+      <g id="Group_45" data-name="Group 45" transform="translate(0)">
+        <path id="Polygon_8-2" data-name="Polygon 8" d="M15,0,30,25H0Z" transform="translate(6 12.861)"/>
+        <text id="_2" data-name="2" transform="translate(18 9.861)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">2</tspan></text>
+        <text id="_8" data-name="8" transform="translate(0 41.861)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">8</tspan></text>
+        <text id="_16" data-name="16" transform="translate(36 42.861)" font-size="11" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">16</tspan></text>
+      </g>
+      <text id="_8_x_2_16" data-name="8 x 2 = 16" transform="translate(60 27.861)" font-size="11" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">8 x 2 = 16</tspan></text>
+    </g>
+    <g id="Group_108" data-name="Group 108" transform="translate(1274 827.279)">
+      <g id="Group_46" data-name="Group 46" transform="translate(0)">
+        <path id="Polygon_8-3" data-name="Polygon 8" d="M15,0,30,25H0Z" transform="translate(6 12.721)"/>
+        <text id="_3-2" data-name="? = 3" transform="translate(18 10.721)" font-size="11" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">? = 3</tspan></text>
+        <text id="_3-3" data-name="3" transform="translate(0 41.721)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3</tspan></text>
+        <text id="_9-2" data-name="9" transform="translate(36 41.721)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">9</tspan></text>
+      </g>
+      <text id="_3_x_3_9" data-name="3 x 3 = 9" transform="translate(60 27.721)" font-size="11" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3 x 3 = 9</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="108" viewBox="0 0 150 108">
+  <g id="solution_lv6" transform="translate(-471 -194)">
+    <text id="_5_5_x_5_-_5" data-name="= 5 + ( 5 x 5 ) - 5" transform="translate(471 214)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 5 + ( 5 x 5 ) - 5</tspan></text>
+    <text id="_5_25_-_5" data-name="= ( 5 + 25 ) - 5" transform="translate(471 241)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= ( 5 + 25 ) - 5</tspan></text>
+    <text id="_30_-_5" data-name="= 30 - 5" transform="translate(471 268)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 30 - 5</tspan></text>
+    <text id="_25" data-name="= 25" transform="translate(471 295)" font-size="20" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">= 25</tspan></text>
+  </g>
+</svg>

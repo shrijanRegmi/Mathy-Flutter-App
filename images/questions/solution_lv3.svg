@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="107" viewBox="0 0 202 107">
+  <g id="solution_lv3" transform="translate(-729 -259)">
+    <g id="Group_64" data-name="Group 64">
+      <path id="Polygon_10" data-name="Polygon 10" d="M11,0,22,19H0Z" transform="translate(884 259)"/>
+      <text id="_2" data-name="= 2" transform="translate(912 273)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 2</tspan></text>
+    </g>
+    <g id="Group_67" data-name="Group 67">
+      <path id="Polygon_1" data-name="Polygon 1" d="M11,0,22,19H0Z" transform="translate(747 259)"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M11,0,22,19H0Z" transform="translate(789 259)"/>
+      <text id="_4" data-name="= 4" transform="translate(823 273)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 4</tspan></text>
+      <text id="_" data-name="+" transform="translate(775 273)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <g id="Group_68" data-name="Group 68" transform="translate(0 -1)">
+      <text id="_12" data-name="= 12" transform="translate(823 302)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 12</tspan></text>
+      <text id="_2-2" data-name="2" transform="translate(796 302)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2-3" data-name="+" transform="translate(775 302)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">+</tspan></text>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="19" height="18" transform="translate(729 289)"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="19" height="18" transform="translate(750 289)"/>
+    </g>
+    <g id="Group_66" data-name="Group 66">
+      <g id="Group_65" data-name="Group 65" transform="translate(0 28)">
+        <text id="_5" data-name="= 5" transform="translate(912 273)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 5</tspan></text>
+      </g>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="19" height="18" transform="translate(886 288)"/>
+    </g>
+    <g id="Group_69" data-name="Group 69" transform="translate(0 -1)">
+      <text id="_13" data-name="= 13" transform="translate(823 330)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 13</tspan></text>
+      <text id="_5-2" data-name="5" transform="translate(796 330)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">5</tspan></text>
+      <text id="_3" data-name="+" transform="translate(775 330)" font-size="13" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">+</tspan></text>
+      <path id="Path_18" data-name="Path 18" d="M10.294,0A10.294,10.294,0,1,1,0,10.294,10.294,10.294,0,0,1,10.294,0Z" transform="translate(747.595 316)"/>
+    </g>
+    <g id="Group_70" data-name="Group 70">
+      <text id="_8" data-name="= 8" transform="translate(823 360)" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">= 8</tspan></text>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="10.5" cy="10.5" r="10.5" transform="translate(790 345)"/>
+    </g>
+  </g>
+</svg>

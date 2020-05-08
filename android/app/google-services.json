@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "124634371678",
+    "firebase_url": "https://eassi-app.firebaseio.com",
+    "project_id": "eassi-app",
+    "storage_bucket": "eassi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124634371678:android:be070b245c6429864586cf",
+        "android_client_info": {
+          "package_name": "com.example.easi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124634371678-9nsahi4iuofkiim3ai575pdiuuj14h07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCha_YKPnwDzlOpRusEFl25d1_qCgJofFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124634371678-9nsahi4iuofkiim3ai575pdiuuj14h07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124634371678:android:e697c9b5255e9e664586cf",
+        "android_client_info": {
+          "package_name": "com.example.mathy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124634371678-9nsahi4iuofkiim3ai575pdiuuj14h07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCha_YKPnwDzlOpRusEFl25d1_qCgJofFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124634371678-9nsahi4iuofkiim3ai575pdiuuj14h07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

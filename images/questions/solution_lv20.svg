@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="177.836" viewBox="0 0 172 177.836">
+  <g id="solution_lv20" transform="translate(-498 -1005)">
+    <g id="Group_118" data-name="Group 118" transform="translate(505.647 1005)">
+      <g id="Group_49" data-name="Group 49">
+        <path id="Polygon_9" data-name="Polygon 9" d="M17,0,34,29H0Z" transform="translate(41.353 40) rotate(180)"/>
+        <text id="_1" data-name="1" transform="translate(0.353 12)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1</tspan></text>
+        <text id="_5" data-name="5" transform="translate(41.353 12)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">5</tspan></text>
+        <text id="_3" data-name="3" transform="translate(21.353 50)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <text id="_1_5_2_3_" data-name="( 1 + 5 ) / 2 = 3 " transform="translate(81.353 31)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">( 1 + 5 ) / 2 = 3 </tspan></text>
+    </g>
+    <g id="Group_117" data-name="Group 117" transform="translate(498 1067.133)">
+      <g id="Group_50" data-name="Group 50" transform="translate(0 0)">
+        <path id="Polygon_9-2" data-name="Polygon 9" d="M17,0,34,28H0Z" transform="translate(49 39.867) rotate(180)"/>
+        <text id="_10" data-name="10" transform="translate(0 11.867)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">10</tspan></text>
+        <text id="_6" data-name="6" transform="translate(49 11.867)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">6</tspan></text>
+        <text id="_8" data-name="8" transform="translate(29 49.867)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">8</tspan></text>
+      </g>
+      <text id="_10_6_2_8" data-name="( 10 + 6 ) / 2 = 8" transform="translate(85 30.867)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">( 10 + 6 ) / 2 = 8</tspan></text>
+    </g>
+    <g id="Group_116" data-name="Group 116" transform="translate(505.761 1129.266)">
+      <g id="Group_51" data-name="Group 51">
+        <path id="Polygon_9-3" data-name="Polygon 9" d="M16.485,0,32.971,28.616H0Z" transform="translate(41.058 40.436) rotate(180)"/>
+        <text id="_7" data-name="7" transform="translate(0 10)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">7</tspan></text>
+        <text id="_1-2" data-name="1" transform="translate(41.058 10)" font-size="10" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1</tspan></text>
+        <text id="_4" data-name="? = 4" transform="translate(21.151 49.569)" font-size="11" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">? = 4</tspan></text>
+      </g>
+      <text id="_7_1_2_4_" data-name="( 7 + 1 ) / 2 = 4 " transform="translate(81.239 29.734)" font-size="12" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">( 7 + 1 ) / 2 = 4 </tspan></text>
+    </g>
+  </g>
+</svg>

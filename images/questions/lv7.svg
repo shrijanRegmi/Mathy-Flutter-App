@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="149" viewBox="0 0 137 149">
+  <g id="lv7" transform="translate(-192 -401)">
+    <text id="_5" data-name="= 5" transform="translate(299 432)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= 5</tspan></text>
+    <text id="_" data-name="= ?" transform="translate(301 510)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">= ?</tspan></text>
+    <g id="Group_22" data-name="Group 22" transform="translate(20 -12)">
+      <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(188 413)" fill="none" stroke="#000" stroke-width="1">
+        <rect width="49" height="49" stroke="none"/>
+        <rect x="0.5" y="0.5" width="48" height="48" fill="none"/>
+      </g>
+      <line id="Line_12" data-name="Line 12" y2="48" transform="translate(211.5 413.5)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_13" data-name="Line 13" y2="48" transform="translate(236.5 437.5) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(20 -12)">
+      <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(172 480)" fill="none" stroke="#000" stroke-width="1">
+        <rect width="82" height="82" stroke="none"/>
+        <rect x="0.5" y="0.5" width="81" height="81" fill="none"/>
+      </g>
+      <line id="Line_12-2" data-name="Line 12" y2="79.964" transform="translate(200.149 480.833)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_14" data-name="Line 14" y2="79.964" transform="translate(226.149 480.833)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_13-2" data-name="Line 13" y2="79.964" transform="translate(252.797 533.815) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_15" data-name="Line 15" y2="79.964" transform="translate(252.797 508.815) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
